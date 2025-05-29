@@ -1,12 +1,19 @@
 Portfolio Simulator  
+
+**Overview**  
 This project is a Python-based portfolio simulator designed to model investment portfolios. It provides tools to manage stocks, track transactions, and evaluate portfolio performance over time.
 
-Features  
+**Project Objectives**  
 - Stock Management: Create and manage stock objects with relevant attributes.
 - Transaction Handling: Record and process buy/sell transactions for various stocks.
 - Portfolio Analysis: Aggregate stock data and transactions to assess overall portfolio performance.
 
-Project Structure  
+**Tools & Technologies**
+- Python (Pandas, NumPy, yfinance)
+- API
+- Object-Oriented Programming
+
+**Project Structure**  
 - main.py: The main script to run simulations and interact with the portfolio.
 - stock.py: Contains the Stock class, representing individual stock entities with their properties.
 - transaction.py: Manages the Transaction class, detailing buy/sell operations on stocks.
